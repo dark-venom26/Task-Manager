@@ -10,6 +10,7 @@ Install Task Manager Backend with npm
 
 ```bash
   npm install
+  npm install -g nodemon
   nodemon ./index.js
 ```
 ## Frontend Installation
@@ -17,6 +18,7 @@ Install Task Manager Backend with npm
 Install Task Manager Frontend with npm
 
 ```bash
+  cd task-manager
   npm install
   npm start
 ```
