@@ -104,7 +104,13 @@ Install Task Manager Frontend with npm
 
 ## Screenshots
 
-![Home Page Screenshot](file:///home/venom/Downloads/Home.jpg)
+![Home Page](https://user-images.githubusercontent.com/92418471/171388291-3d0e1599-fedf-4a8f-9d1a-5b8ebf9d3fdf.jpg)
+
+![Edit Page](https://user-images.githubusercontent.com/92418471/171388542-78ad798b-6256-48d4-a0a3-fda02011c964.jpg)
+
+![Login Page](https://user-images.githubusercontent.com/92418471/171388680-8fed490e-4360-4225-8d9f-9ad4167e0f49.jpg)
+
+
 
 ## Authors
 
